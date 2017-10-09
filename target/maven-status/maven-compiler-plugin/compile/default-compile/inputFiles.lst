@@ -1,0 +1,13 @@
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/dao/impl/LoginDAOImpl.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/dao/impl/RoleDAOImpl.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/model/Login.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/dao/BaseDAO.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/config/DataSourceConfiguration.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/model/enums/LoginRole.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/dao/LoginDAO.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/dao/RoleDAO.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/model/Role.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/config/ModelMapperConfiguration.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/controller/IntelipostApplicationController.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/dao/impl/BaseDAOImpl.java
+/Users/samuelcatalano/Projects/intelipost/src/main/java/com/br/intelipost/intelipost/IntelipostApplication.java

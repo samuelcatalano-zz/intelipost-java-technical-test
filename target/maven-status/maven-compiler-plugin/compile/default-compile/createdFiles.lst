@@ -1,0 +1,13 @@
+com/br/intelipost/intelipost/dao/impl/RoleDAOImpl.class
+com/br/intelipost/intelipost/dao/impl/BaseDAOImpl.class
+com/br/intelipost/intelipost/config/DataSourceConfiguration.class
+com/br/intelipost/intelipost/dao/LoginDAO.class
+com/br/intelipost/intelipost/controller/IntelipostApplicationController.class
+com/br/intelipost/intelipost/dao/impl/LoginDAOImpl.class
+com/br/intelipost/intelipost/IntelipostApplication.class
+com/br/intelipost/intelipost/config/ModelMapperConfiguration.class
+com/br/intelipost/intelipost/model/Login.class
+com/br/intelipost/intelipost/model/enums/LoginRole.class
+com/br/intelipost/intelipost/model/Role.class
+com/br/intelipost/intelipost/dao/BaseDAO.class
+com/br/intelipost/intelipost/dao/RoleDAO.class
